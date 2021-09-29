@@ -4,7 +4,7 @@
     "url": "https://beer.idkulab.com",
     "icon": "https://favicons.githubusercontent.com/beer.idkulab.com",
     "slug": "idku-beer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 213,
     "timeMonth": 213,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   }
 ]
