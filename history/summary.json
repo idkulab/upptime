@@ -4,7 +4,7 @@
     "url": "https://beer.idkulab.com",
     "icon": "https://icons.duckduckgo.com/ip3/beer.idkulab.com.ico",
     "slug": "idku-beer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 300,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2024-06-03": 0,
       "2024-01-16": 18
     }
   }
