@@ -2,8 +2,8 @@ owner: idkulab # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: IDKU Beer
-    url: https://beer.idkulab.com
+  - name: DecodeBeer
+    url: https://decodebeer.com
 
 status-website:
   cname: status.idkulab.com
