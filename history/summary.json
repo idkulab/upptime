@@ -4,18 +4,19 @@
     "url": "https://decodebeer.com",
     "icon": "https://icons.duckduckgo.com/ip3/decodebeer.com.ico",
     "slug": "decode-beer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 134,
-    "timeDay": 101,
-    "timeWeek": 121,
-    "timeMonth": 126,
+    "timeDay": 142,
+    "timeWeek": 129,
+    "timeMonth": 127,
     "timeYear": 134,
     "dailyMinutesDown": {
+      "2025-02-10": 0,
       "2024-10-22": 21
     }
   }
