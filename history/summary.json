@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/decodebeer.com.ico",
     "slug": "decode-beer",
     "status": "down",
-    "uptime": "33.93%",
+    "uptime": "33.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 141,
-    "timeDay": 72,
-    "timeWeek": 162,
-    "timeMonth": 274,
+    "timeDay": 102,
+    "timeWeek": 143,
+    "timeMonth": 271,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2026-04-29": 228,
+      "2026-04-30": 230,
+      "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
@@ -379,8 +380,7 @@
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
-      "2025-05-01": 1440,
-      "2025-04-30": 1440
+      "2025-05-01": 1440
     }
   }
 ]
